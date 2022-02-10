@@ -1,0 +1,144 @@
+﻿  ArrayMatrix.h
+  main.cpp
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\main.cpp(27,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\ArrayList.h(146,20): warning C4018: '<': signed/unsigned mismatch
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\ArrayList.h(145): message : while compiling class template member function 'int ArrayList<int>::index(const T)'
+          with
+          [
+              T=int
+          ]
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\main.cpp(37): message : see reference to class template instantiation 'ArrayList<int>' being compiled
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\PriorityQueue.h(59,20): warning C4018: '<': signed/unsigned mismatch
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\PriorityQueue.h(58): message : while compiling class template member function 'PriorityQueue<int>::~PriorityQueue(void)'
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\main.cpp(149): message : see reference to function template instantiation 'PriorityQueue<int>::~PriorityQueue(void)' being compiled
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\main.cpp(77): message : see reference to class template instantiation 'PriorityQueue<int>' being compiled
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\PriorityQueue.h(81,21): warning C4018: '<': signed/unsigned mismatch
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\PriorityQueue.h(71): message : while compiling class template member function 'void PriorityQueue<int>::push(const T &,int)'
+          with
+          [
+              T=int
+          ]
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\DoubleList.h(121,22): warning C4018: '<': signed/unsigned mismatch
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\DoubleList.h(98): message : while compiling class template member function 'void DoubleList<int>::push(const T &,int)'
+          with
+          [
+              T=int
+          ]
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\main.cpp(101): message : see reference to class template instantiation 'DoubleList<int>' being compiled
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\ArrayMatrix.h(59,20): warning C4018: '<': signed/unsigned mismatch
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\ArrayMatrix.h(58): message : while compiling class template member function 'ArrayMatrix<int>::~ArrayMatrix(void)'
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\TestMatrix.h(33): message : see reference to class template instantiation 'ArrayMatrix<int>' being compiled
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\TestMatrix.h(31): message : while compiling class template member function 'void TestMatrix<int>::runTestAM(void)'
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\main.cpp(142): message : see reference to function template instantiation 'void TestMatrix<int>::runTestAM(void)' being compiled
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\main.cpp(141): message : see reference to class template instantiation 'TestMatrix<int>' being compiled
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\TestList.h(110,1): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\TestList.h(95): message : while compiling class template member function 'void TestList<int>::runTest(void)'
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\TestList.h(88): message : see reference to function template instantiation 'void TestList<int>::runTest(void)' being compiled
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\TestList.h(77): message : while compiling class template member function 'TestList<int>::TestList(void)'
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\main.cpp(36): message : see reference to function template instantiation 'TestList<int>::TestList(void)' being compiled
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\main.cpp(36): message : see reference to class template instantiation 'TestList<int>' being compiled
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\TestList.h(126,1): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\TestList.h(142,1): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\TestList.h(159,1): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\TestQueue.h(90,1): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\TestQueue.h(77): message : while compiling class template member function 'void TestQueue<int>::runTest(void)'
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\TestQueue.h(71): message : see reference to function template instantiation 'void TestQueue<int>::runTest(void)' being compiled
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\TestQueue.h(55): message : while compiling class template member function 'TestQueue<int>::TestQueue(void)'
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\main.cpp(75): message : see reference to function template instantiation 'TestQueue<int>::TestQueue(void)' being compiled
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\main.cpp(75): message : see reference to class template instantiation 'TestQueue<int>' being compiled
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\TestQueue.h(112,1): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\TestQueue.h(130,1): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\DoubleList.h(162,22): warning C4018: '<': signed/unsigned mismatch
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\DoubleList.h(159): message : while compiling class template member function 'void DoubleList<int>::rework(void)'
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\DoubleList.h(150): message : see reference to function template instantiation 'void DoubleList<int>::rework(void)' being compiled
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\DoubleList.h(72): message : while compiling class template member function 'DoubleList<int>::DoubleList(int)'
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\main.cpp(101): message : see reference to function template instantiation 'DoubleList<int>::DoubleList(int)' being compiled
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\TestMatrix.h(101,13): warning C4101: 'matica': unreferenced local variable
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\TestMatrix.h(99): message : while compiling class template member function 'void TestMatrix<int>::test(Matrix<T> *,Matrix<T> *)'
+          with
+          [
+              T=int
+          ]
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\TestMatrix.h(69): message : see reference to function template instantiation 'void TestMatrix<int>::test(Matrix<T> *,Matrix<T> *)' being compiled
+          with
+          [
+              T=int
+          ]
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\TestMatrix.h(65): message : while compiling class template member function 'void TestMatrix<int>::runTestMM(void)'
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\main.cpp(143): message : see reference to function template instantiation 'void TestMatrix<int>::runTestMM(void)' being compiled
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\DoubleList.h(195,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\DoubleList.h(190): message : while compiling class template member function 'void DoubleList<int>::reworkCapacity(int)'
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\TestQueue.h(98): message : see reference to function template instantiation 'void DoubleList<int>::reworkCapacity(int)' being compiled
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\TestQueue.h(77): message : while compiling class template member function 'void TestQueue<int>::runTest(void)'
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\TestQueue.h(71): message : see reference to function template instantiation 'void TestQueue<int>::runTest(void)' being compiled
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\DoubleList.h(198,21): warning C4018: '>=': signed/unsigned mismatch
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\DoubleList.h(202,24): warning C4018: '>': signed/unsigned mismatch
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\DoubleList.h(214,22): warning C4018: '>=': signed/unsigned mismatch
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\DoubleList.h(218,25): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\BitMap.h(104): warning C4715: 'BitMap::jePodmnozina': not all control paths return a value
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\ArrayList.h(132): warning C4715: 'ArrayList<int>::removeAt': not all control paths return a value
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\ArrayList.h(130): warning C4172: returning address of local variable or temporary: temp
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\LinkedList.h(178): warning C4715: 'LinkedList<int>::removeFirst': not all control paths return a value
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\LinkedList.h(221): warning C4715: 'LinkedList<int>::removeAt': not all control paths return a value
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\LinkedList.h(196): warning C4715: 'LinkedList<int>::removeLast': not all control paths return a value
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\LinkedList.h(176): warning C4172: returning address of local variable or temporary: node
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\LinkedList.h(243): warning C4715: 'LinkedList<int>::get': not all control paths return a value
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\LinkedList.h(219): warning C4172: returning address of local variable or temporary: node
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\LinkedList.h(194): warning C4172: returning address of local variable or temporary: node
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\DoublyLinkedList.h(188): warning C4715: 'DoublyLinkedList<int>::removeFirst': not all control paths return a value
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\DoublyLinkedList.h(186): warning C4172: returning address of local variable or temporary: node
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\DoublyLinkedList.h(205): warning C4715: 'DoublyLinkedList<int>::removeLast': not all control paths return a value
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\DoublyLinkedList.h(203): warning C4172: returning address of local variable or temporary: node
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\DoublyLinkedList.h(275): warning C4715: 'DoublyLinkedList<int>::get': not all control paths return a value
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\DoublyLinkedList.h(254): warning C4715: 'DoublyLinkedList<int>::removeAt': not all control paths return a value
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\DoublyLinkedList.h(233): warning C4172: returning address of local variable or temporary: node
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\DoublyLinkedList.h(251): warning C4172: returning address of local variable or temporary: node
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\PriorityQueue.h(107): warning C4715: 'PriorityQueue<int>::pop': not all control paths return a value
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\PriorityQueue.h(96): warning C4715: 'PriorityQueue<int>::show': not all control paths return a value
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\LeftistHeap.h(112): warning C4715: 'LeftistHeap<int>::pop': not all control paths return a value
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\LeftistHeap.h(100): warning C4715: 'LeftistHeap<int>::show': not all control paths return a value
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\DoubleList.h(141): warning C4715: 'DoubleList<int>::show': not all control paths return a value
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\DoubleList.h(156): warning C4715: 'DoubleList<int>::pop': not all control paths return a value
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\ArrayList.h(132): warning C4715: 'ArrayList<PriorityQueue<int>::QueueNode<int> *>::removeAt': not all control paths return a value
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\ArrayList.h(130): warning C4172: returning address of local variable or temporary: temp
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\ArrayList.h(132): warning C4715: 'ArrayList<DoubleList<int>::DoubleNode<int> *>::removeAt': not all control paths return a value
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\ArrayList.h(130): warning C4172: returning address of local variable or temporary: temp
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\LinkedList.h(178): warning C4715: 'LinkedList<DoubleList<int>::DoubleNode<int> *>::removeFirst': not all control paths return a value
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\LinkedList.h(176): warning C4172: returning address of local variable or temporary: node
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\LinkedList.h(196): warning C4715: 'LinkedList<DoubleList<int>::DoubleNode<int> *>::removeLast': not all control paths return a value
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\LinkedList.h(243): warning C4715: 'LinkedList<DoubleList<int>::DoubleNode<int> *>::get': not all control paths return a value
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\LinkedList.h(221): warning C4715: 'LinkedList<DoubleList<int>::DoubleNode<int> *>::removeAt': not all control paths return a value
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\LinkedList.h(194): warning C4172: returning address of local variable or temporary: node
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\LinkedList.h(219): warning C4172: returning address of local variable or temporary: node
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\ArrayList.h(132): warning C4715: 'ArrayList<ArrayList<int> *>::removeAt': not all control paths return a value
+D:\Dev\C++\Testovanie Udajovych Struktur\Testovanie Udajovych Struktur\ArrayList.h(130): warning C4172: returning address of local variable or temporary: temp
+  Testovanie Udajovych Struktur.vcxproj -> D:\Dev\C++\Testovanie Udajovych Struktur\Debug\Testovanie Udajovych Struktur.exe

@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="TestList&lt;T&gt;">
+    <Position X="5" Y="0.75" Width="6" />
+    <TypeIdentifier>
+      <HashCode>AgAAAEAAQRBAAAAEAQAAAAAAAAAAAAAIAEAABBAlAAA=</HashCode>
+      <FileName>TestList.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="list_" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="LeftistHeap&lt;T&gt;">
+    <Position X="10" Y="20" Width="4.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="LeftistHeap&lt;T&gt;::HeapNode&lt;T&gt;">
+        <TypeIdentifier>
+          <NewMemberFileName>LeftistHeap.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAgAIAAAIBAAAAAABAABAEIAAAIAAA=</HashCode>
+      <FileName>LeftistHeap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BitMap">
+    <Position X="24" Y="0.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAEQAIgAARCAAAAIAAgABIBgAAAAAAAABCAAAAAAA=</HashCode>
+      <FileName>BitMap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestBitMap">
+    <Position X="27.75" Y="0.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAEAAAAQAAAAAAAAAAEBEAAEAABAAAAAA=</HashCode>
+      <FileName>TestBitMap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestQueue&lt;T&gt;">
+    <Position X="15.5" Y="17.25" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAARAAAAAAAUAAAAAAAAAAABCIAEAABAAwAAA=</HashCode>
+      <FileName>TestQueue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ArrayList&lt;T&gt;">
+    <Position X="2.5" Y="10" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAgEAAAAAAACI4IQABAACAAAAIAAgAAAAADAAA=</HashCode>
+      <FileName>ArrayList.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="DoublyLinkedList&lt;T&gt;">
+    <Position X="6.75" Y="10" Width="3" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="DoublyLinkedList&lt;T&gt;::Node&lt;T&gt;">
+        <TypeIdentifier>
+          <NewMemberFileName>DoublyLinkedList.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAEAAQAAAACIUIQABAACAAACAAAAAABAADAAA=</HashCode>
+      <FileName>DoublyLinkedList.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LinkedList&lt;T&gt;">
+    <Position X="10.5" Y="10" Width="3" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="LinkedList&lt;T&gt;::Node&lt;T&gt;">
+        <TypeIdentifier>
+          <NewMemberFileName>LinkedList.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAEBAQAAAACIUIRABAACAAAAAAAAAAAAADAAA=</HashCode>
+      <FileName>LinkedList.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="List&lt;T&gt;">
+    <Position X="6.5" Y="6.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAEAAAAAAACIQIQAAAACAAAAAAAAAAAAADAAA=</HashCode>
+      <FileName>List.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Queue&lt;T&gt;">
+    <Position X="7.25" Y="17.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAIAAAAAAAAAABAAIAAAAAAA=</HashCode>
+      <FileName>Queue.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PriorityQueue&lt;T&gt;">
+    <Position X="6.25" Y="20" Width="3" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="PriorityQueue&lt;T&gt;::QueueNode&lt;T&gt;">
+        <TypeIdentifier>
+          <NewMemberFileName>PriorityQueue.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAIAAAAAAAAIAAAIAAAAAAAAAABAAIABAAAAA=</HashCode>
+      <FileName>PriorityQueue.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="DoubleList&lt;T&gt;">
+    <Position X="2.5" Y="20" Width="3" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="DoubleList&lt;T&gt;::DoubleNode&lt;T&gt;">
+        <TypeIdentifier>
+          <NewMemberFileName>DoubleList.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAACAIIBAAIAAAAAAAACEBAQoCACAAAA=</HashCode>
+      <FileName>DoubleList.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Matrix&lt;T&gt;">
+    <Position X="17.25" Y="6.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgBAAAAAAAAAAAQAQAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Matrix.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MemoryMatrix&lt;T&gt;">
+    <Position X="15.25" Y="9" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAIAAwAQAAAAAEAAAgAAAAABACAAAA=</HashCode>
+      <FileName>MemoryMatrix.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ArrayMatrix&lt;T&gt;">
+    <Position X="19.5" Y="9" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAwAQAAAgAEAAAgAAAIAAACAAAA=</HashCode>
+      <FileName>ArrayMatrix.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TestMatrix&lt;T&gt;">
+    <Position X="16" Y="3" Width="5.75" />
+    <TypeIdentifier>
+      <HashCode>AAAADAAAAQAAAAIAAAAAAAAAAQAAAAEIAAAQBAAAAAA=</HashCode>
+      <FileName>TestMatrix.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
